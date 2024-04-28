@@ -1,2 +1,2 @@
 # RKP
-Rendszer közeli programozás (Ubuntu)
+Rendszerközeli programozás (Ubuntu)
